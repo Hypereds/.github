@@ -24,8 +24,8 @@ Este espacio en GitHub alojará en el futuro herramientas, utilidades, documenta
 ## Aliados y colaboradores
 
 <p align="center">
-  <img src="./enterpises-logos/UPTC-logo.png" alt="UPTC" height="60" style="margin: 0 20px;" />
-  <img src="./enterpises-logos/ANM-Logo.png" alt="ANM" height="60" style="margin: 0 20px;" />
-  <img src="./enterpises-logos/Imac-logo.png" alt="Imac" height="60" style="margin: 0 20px;" />
-  <img src="./enterpises-logos/AceroPlast-logo.png" alt="AceroPlast" height="60" style="margin: 0 20px;" />
+  <img src="./enterpises-logos/UPTC-logo.png" alt="UPTC" height="150" style="margin: 0 20px;" />
+  <img src="./enterpises-logos/ANM-Logo.png" alt="ANM" height="150" style="margin: 0 20px;" />
+  <img src="./enterpises-logos/Imac-logo.png" alt="Imac" height="150" style="margin: 0 20px;" />
+  <img src="./enterpises-logos/AceroPlast-logo.png" alt="AceroPlast" height="150" style="margin: 0 20px;" />
 </p>
